@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestData>
+
+  <hbartc1>
+    <email>allenregression26@mailinator.com</email>
+    <FirstName>AllenRegressionTwentysix</FirstName>
+    <LastName>Twentysix</LastName>
+    <mobile>0123456789</mobile>
+    <password>password01</password>
+  </hbartc1>
+
+  <hbartc2>
+  
+
+    <MiddleName>MiddleNameTestRun1</MiddleName>
+
+    <SecurityQuestion>What is your first pet's name?</SecurityQuestion>
+    <Answer>SecurityAnswerTestRun1</Answer>
+    <Password>PasswordTestRun1</Password>
+
+    <Street>111 Street Test run1</Street>
+    <Appartment>ApartmentTestRun1</Appartment>
+    <City>CityTestRun</City>
+    <State>StateTestRun</State>
+    <Zipcode>ZipCodeTestRun</Zipcode>
+
+    <Email>email1000@testrun1.com</Email>
+    <PhoneNumber>123456789</PhoneNumber>
+  </hbartc2>
+</TestData>
